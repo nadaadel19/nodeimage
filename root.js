@@ -11,6 +11,6 @@ app.get('/', (req, res)=>{
 })
 
 app.listen(PORT, HOST, ()=>{
-    console.log("application is started")
+    console.log("application is started !!")
 } )
 
